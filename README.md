@@ -24,5 +24,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nishanth-n-01032a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishanth N" height="30" width="40" /></a>
 <a href="https://leetcode.com/TheMedicineSeller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TheMedicineSeller" height="30" width="40" /></a>
-<a href="https://www.instagram.com/doom_reigns/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doom_reigns" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nishanth21902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doom_reigns" height="30" width="40" /></a>
 </p><br>
