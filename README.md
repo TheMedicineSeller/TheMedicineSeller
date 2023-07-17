@@ -6,13 +6,13 @@
 
 <br>
 
-- 🔭 I’m currently working on **Deep Image Segmentation and Multi Agent Policy Gradient Reinforcement Learning**
+- 🔭 I’m currently working on **Deep Image Segmentation, LLMs and Multi Agent Policy Gradient RL**
 
-- 🌱 I’m currently learning **Compiler Design, Advanced RL**
+- 🌱 I’m currently learning **NLP Transformers, Compiler Design, Advanced RL**
 
 - 💬 Ask me about **Deep Learning, Reinforcement Learning, C++ and Geopolitics🌎**
 
-- 📫 How to reach me **nishanth21902@gmail.com**
+- 📫 Mail me at **nishanth21902@gmail.com**
 
 - ⚡ Fun fact **I love history🏛️🛕, watching movies🎬, reading mangos📖 and lifting weights 💪🏋️‍♂️**
 
