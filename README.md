@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NLP Transformers, Compiler Design, Advanced RL**
 
-- 💬 Ask me about **Deep Learning, Reinforcement Learning, C++ and Geopolitics🌎**
+- 💬 Ask me about **Deep Learning, Reinforcement Learning, C++, System level stuff and Geopolitics🌎**
 
 - 📫 Mail me at **nishanth21902@gmail.com**
 
