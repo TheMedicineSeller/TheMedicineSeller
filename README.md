@@ -1,6 +1,6 @@
 <!-- Add logo -->
 <h1 align="center">Hey 👋, Nishanth here</h1>
-<h3 align="center">Computer Science Engineer from India doing Final Year at VIT Chennai</h3>
+<h3 align="center">Computer Science Engineer from Chennai, India doing Final Year at VIT Chennai</h3>
 <!--  Put some images/vids to display here
 -->
 
