@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Deep Image Segmentation, LLMs and Multi Agent Policy Gradient RL**
 
-- 🌱 I’m currently learning **NLP Transformers, Compiler Design, Advanced RL**
+- 🌱 I’m currently learning **Go, DSA, API dev**
 
-- 💬 Ask me about **Deep Learning, Reinforcement Learning, C++, System level stuff and Geopolitics🌎**
+- 💬 Ask me about **Deep Learning, Reinforcement Learning, C++, System level stuff**
 
 - 📫 Mail me at **nishanth21902@gmail.com**
 
-- ⚡ Fun fact **I love history🏛️🛕, watching movies🎬, reading mangos📖 and lifting weights 💪🏋️‍♂️**
+- ⚡ Fun fact **I interested in history🏛️🛕, urban transit planning🚆🏙️ and lifting weights 💪🏋️‍♂️**
 
 <br>
 
