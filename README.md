@@ -14,7 +14,7 @@
 
 - 📫 Mail me at **nishanth21902@gmail.com**
 
-- ⚡ Fun fact **I interested in history🏛️🛕, urban transit planning🚆🏙️ and lifting weights 💪🏋️‍♂️**
+- ⚡ Fun fact **I'm interested in history🏛️🛕, urban transit planning🚆🏙️ and lifting weights 💪🏋️‍♂️**
 
 <br>
 
