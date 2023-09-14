@@ -6,7 +6,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Deep Image Segmentation, LLMs and Multi Agent Policy Gradient RL**
+- 🔭 I’m currently working on **LLMs and DL projects**
 
 - 🌱 I’m currently learning **Go, DSA, API dev**
 
