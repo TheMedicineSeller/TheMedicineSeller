@@ -14,7 +14,7 @@
 
 - 📫 Mail me at **nishanth21902@gmail.com**
 
-- ⚡ Fun fact **I'm interested in history🏛️🛕, urban transit planning🚆🏙️ and lifting weights 💪🏋️‍♂️**
+- ❤️ I love listening to heavy metal music 🎸🥁 and lifting weights 💪🏋️‍♂️ (sometimes both at the same time)
 
 <br>
 
