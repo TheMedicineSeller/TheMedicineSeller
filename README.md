@@ -6,15 +6,15 @@
 
 <br>
 
-- 🔭 I’m currently working on **LLMs and DL projects**
+- 🔭 I’m currently working on **nothing oof**
 
-- 🌱 I’m currently learning **Go, DSA, API dev**
+- 🌱 I’m currently learning **Go, NLP and Guitar!**
 
 - 💬 Ask me about **Deep Learning, Reinforcement Learning, C++, System level stuff**
 
 - 📫 Mail me at **nishanth21902@gmail.com**
 
-- ❤️ I love listening to heavy metal music 🎸🥁 and lifting weights 💪🏋️‍♂️ (sometimes both at the same time)
+- ❤️ I love listening to metal 🎸🥁 and lifting weights 💪🏋️‍♂️ (sometimes both at the same time)
 
 <br>
 
